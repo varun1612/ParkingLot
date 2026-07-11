@@ -4,6 +4,8 @@ import MODELS.*;
 import SPOTASSIGNMENTSTRATEGY.*;
 import OBSERVER.ParkingObserver;
 import java.util.*;
+import java.util.random.*;
+
 
 
 public class ParkingLot {
